@@ -24,3 +24,21 @@ A full-stack MERN application for managing vending machine reservations in hoste
 ### Setup
 1. Clone the repository
 2. Install server dependencies:
+
+## 🖼️ Website Screenshots
+
+### 🔐 Admin Dashboard (Overview)
+![Admin Main page](images/admin.png)
+
+### 📦 Admin - Inventory View
+![Admin ](images/admin_1.png)
+
+### ⚙️ Admin - User Managament Panel
+![Admin ](images/admin_2.png)
+
+### 📊 Admin - Reservations
+![Admin ](images/admin_3.png)
+
+### 👤 User Reservations Page
+![User Screenshot](images/user.png)
+
